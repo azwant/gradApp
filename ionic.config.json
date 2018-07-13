@@ -1,0 +1,8 @@
+{
+  "name": "gradApp",
+  "app_id": "f5539f74",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
